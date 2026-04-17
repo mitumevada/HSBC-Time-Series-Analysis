@@ -13,3 +13,14 @@ The objective of this project is to analyze the time-series behavior of HSBC sto
 - Pandas, numpy
 - matplotlib
 - statsmodels
+
+## Methodology
+- Exploratory data analysis of HSBC stock prices and returns.
+- Volatility analysis using rolling window measures.
+- Stationarity testing using the Augmented Dickey-Fuller (ADF) test.
+- ARIMA modeling for short-term return dynamics.
+- Forecast evaluation using a train-test split.
+
+## Project Status
+In Progress - Modeling and evaluating ongoing.
+
