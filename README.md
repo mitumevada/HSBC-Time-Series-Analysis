@@ -38,5 +38,6 @@ The objective of this project is to analyze the time-series behavior of HSBC sto
 - Analyze interest rate sensitivity relevant to banking-sector risk.
 
 ## Project Status
-In Progress - Modeling and evaluating ongoing.
+Completed
+
 
